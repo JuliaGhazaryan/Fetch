@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 20px;
+  background-image: url("01.png");
+  background-repeat: no-repeat; 
+  background-size: 100%;
+
+  
+}
+
+#text{
+  width: 400px;
+  height: 30px;
+  font-size: 18px;
+}
+
+#search{
+  width: 100px;
+  height: 35px;
+  font-size: 18px;
+}
+
+p{
+  font-size: 22px;
+  font-weight: bold;
+}
+
+button:hover{
+  cursor: pointer;
+}
+
+img{
+  height: 20vh;
+}
+h2{
+  color: blue;
+}
+
+
+
